@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Breeze Dark",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(64, 69, 74)",
+      "toolbar_text": "rgb(248, 248, 251)",
+      "frame": "rgb(49, 54, 59)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(49, 54, 59)",
+      "toolbar_field_text": "rgb(248, 248, 251)",
+      "tab_line": "rgb(192, 192, 192)",
+      "popup": "rgb(49, 54, 59)",
+      "popup_text": "rgb(248, 248, 251)",
+      "tab_loading": "rgb(192, 192, 192)"
+    }
+  }
+}
